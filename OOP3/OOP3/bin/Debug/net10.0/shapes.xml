@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shapes>
+  <Circle name="Circle" color="Red">
+    <Radius>123</Radius>
+  </Circle>
+  <Triangle name="Tri" color="Green">
+    <Base>56</Base>
+    <Height>43</Height>
+  </Triangle>
+</Shapes>

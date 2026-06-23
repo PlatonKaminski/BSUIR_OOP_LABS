@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>  <!-- Изменено с Exe на WinExe -->
+        <TargetFramework>net10.0-windows</TargetFramework>  <!-- Добавлено -windows -->
+        <UseWindowsForms>true</UseWindowsForms>  <!-- Добавлена эта строка -->
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="System.Drawing.Common" Version="10.0.3" />
+    </ItemGroup>
+
+</Project>

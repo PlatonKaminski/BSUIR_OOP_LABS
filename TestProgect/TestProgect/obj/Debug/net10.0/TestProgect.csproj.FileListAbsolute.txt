@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\TestProgect\TestProgect\bin\Debug\net10.0\TestProgect.exe
+C:\Users\User\RiderProjects\TestProgect\TestProgect\bin\Debug\net10.0\TestProgect.deps.json
+C:\Users\User\RiderProjects\TestProgect\TestProgect\bin\Debug\net10.0\TestProgect.runtimeconfig.json
+C:\Users\User\RiderProjects\TestProgect\TestProgect\bin\Debug\net10.0\TestProgect.dll
+C:\Users\User\RiderProjects\TestProgect\TestProgect\bin\Debug\net10.0\TestProgect.pdb
+C:\Users\User\RiderProjects\TestProgect\TestProgect\obj\Debug\net10.0\TestProgect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\TestProgect\TestProgect\obj\Debug\net10.0\TestProgect.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\TestProgect\TestProgect\obj\Debug\net10.0\TestProgect.AssemblyInfo.cs
+C:\Users\User\RiderProjects\TestProgect\TestProgect\obj\Debug\net10.0\TestProgect.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\TestProgect\TestProgect\obj\Debug\net10.0\TestProgect.dll
+C:\Users\User\RiderProjects\TestProgect\TestProgect\obj\Debug\net10.0\refint\TestProgect.dll
+C:\Users\User\RiderProjects\TestProgect\TestProgect\obj\Debug\net10.0\TestProgect.pdb
+C:\Users\User\RiderProjects\TestProgect\TestProgect\obj\Debug\net10.0\TestProgect.genruntimeconfig.cache
+C:\Users\User\RiderProjects\TestProgect\TestProgect\obj\Debug\net10.0\ref\TestProgect.dll

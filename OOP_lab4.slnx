@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ExternalPlugin_Triangle/ExternalPlugin_Triangle.csproj" />
+  <Project Path="ExternalProcessing_XmlToJson/ExternalProcessing_XmlToJson.csproj" />
+  <Project Path="FriendEncryptionPlugin/FriendEncryptionPlugin.csproj" />
+  <Project Path="OOP_lab2/OOP_lab2.csproj" />
+  <Project Path="PluginSigner/PluginSigner.csproj" />
+</Solution>

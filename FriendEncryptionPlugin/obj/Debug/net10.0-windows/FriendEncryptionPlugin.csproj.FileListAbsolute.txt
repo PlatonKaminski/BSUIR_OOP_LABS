@@ -1,0 +1,11 @@
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\bin\Debug\net10.0-windows\FriendEncryptionPlugin.deps.json
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\bin\Debug\net10.0-windows\FriendEncryptionPlugin.dll
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\bin\Debug\net10.0-windows\FriendEncryptionPlugin.pdb
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0-windows\FriendEncryptionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0-windows\FriendEncryptionPlugin.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0-windows\FriendEncryptionPlugin.AssemblyInfo.cs
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0-windows\FriendEncryptionPlugin.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0-windows\FriendEncryptionPlugin.dll
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0-windows\refint\FriendEncryptionPlugin.dll
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0-windows\FriendEncryptionPlugin.pdb
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0-windows\ref\FriendEncryptionPlugin.dll

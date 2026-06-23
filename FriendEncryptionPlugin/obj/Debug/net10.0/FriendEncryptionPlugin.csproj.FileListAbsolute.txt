@@ -1,0 +1,4 @@
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0\FriendEncryptionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0\FriendEncryptionPlugin.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0\FriendEncryptionPlugin.AssemblyInfo.cs
+C:\Users\User\RiderProjects\FriendEncryptionPlugin\obj\Debug\net10.0\FriendEncryptionPlugin.csproj.CoreCompileInputs.cache

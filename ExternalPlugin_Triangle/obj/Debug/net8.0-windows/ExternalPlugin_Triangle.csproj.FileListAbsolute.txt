@@ -1,0 +1,4 @@
+C:\Users\User\RiderProjects\ExternalPlugin_Triangle\obj\Debug\net8.0-windows\ExternalPlugin_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ExternalPlugin_Triangle\obj\Debug\net8.0-windows\ExternalPlugin_Triangle.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ExternalPlugin_Triangle\obj\Debug\net8.0-windows\ExternalPlugin_Triangle.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ExternalPlugin_Triangle\obj\Debug\net8.0-windows\ExternalPlugin_Triangle.csproj.CoreCompileInputs.cache

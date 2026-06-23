@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OOP_lab2/1.0.0": {
+        "dependencies": {
+          "FriendEncryptionPlugin": "1.0.0"
+        },
+        "runtime": {
+          "OOP_lab2.dll": {}
+        }
+      },
+      "FriendEncryptionPlugin/1.0.0": {
+        "runtime": {
+          "FriendEncryptionPlugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_lab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FriendEncryptionPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
